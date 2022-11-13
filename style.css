@@ -1,0 +1,22 @@
+p {
+    font-size: 14px;
+}
+.subject {
+    border: 2px solid black;
+    margin:20px;
+    padding: 30px;
+    height: 200px;
+    width: 600px;
+}
+
+#first {
+    color: green;
+}
+
+#second {
+    color: red;
+}
+
+#third {
+    color: blue;
+}
